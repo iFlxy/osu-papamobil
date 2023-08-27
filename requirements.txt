@@ -1,0 +1,6 @@
+requests
+PyQt5
+notifypy
+discord-webhook
+selenium
+bs4
